@@ -8,44 +8,32 @@
 
 ---
 
-## Hasil Praktikum
-
 ### 1. Tabel Data Mahasiswa
-
-![Tabel Data Mahasiswa](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Tabel_Data_Mahasiswa.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Tabel_Data_Mahasiswa.png" width="700">
 
 ### 2. Tabel Nilai Praktikum
-
-![Tabel Nilai Praktikum](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Tabel_Nilai_Praktikum.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Tabel_Nilai_Praktikum.png" width="700">
 
 ### 3. Form Registrasi
-
-![Form Registrasi](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Form_Registrasi.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Form_Registrasi.png" width="700">
 
 ### 4. Radio Button dan Checkbox
-
-![Radio Checkbox](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Radio_Checkbox.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Radio_Checkbox.png" width="700">
 
 ### 5. Select dan Textarea
-
-![Select TextArea](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Select_TextArea.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Select_TextArea.png" width="700">
 
 ### 6. Validasi Form
-
-![Validasi Form](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Validasi_Form.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Validasi_Form.png" width="700">
 
 ### 7. Semantic HTML
-
-![Semantic HTML](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Semantic_HTML.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Semantic_HTML.png" width="700">
 
 ### 8. Multimedia
-
-![Multimedia](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Multimedia.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Multimedia.png" width="700">
 
 ### 9. Biodata Mahasiswa
-
-![Biodata](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Biodata.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Biodata.png" width="700">
 
 ### 10. Form Biodata
-
-![Form Biodata](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Form_Biodata.png?raw=true)
+<img src="https://raw.githubusercontent.com/abdhzelk13/Lab2Web/main/Screenshot/Form_Biodata.png" width="700">
