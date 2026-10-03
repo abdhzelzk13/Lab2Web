@@ -10,34 +10,32 @@
 
 ## Hasil Praktikum
 
-# Lab1Web1
+<h3>1. Tabel Data Mahasiswa</h3>
+<img src="./Screenshot/Tabel%20Data%20Mahasiswa.png" width="700">
 
-## Tabel Data Mahasiswa
-![Tabel Data Mahasiswa](Screenshot/Tabel%20Data%20Mahasiswa.png)
+<h3>2. Tabel Nilai Praktikum</h3>
+<img src="./Screenshot/Tabel%20Nilai%20Praktikum.png" width="700">
 
-## Tabel Nilai Praktikum
-![Tabel Nilai Praktikum](Screenshot/Tabel%20Nilai%20Praktikum.png)
+<h3>3. Form Registrasi</h3>
+<img src="./Screenshot/Form%20Registrasi.png" width="700">
 
-## Form Registrasi
-![Form Registrasi](Screenshot/Form%20Registrasi.png)
+<h3>4. Radio dan Checkbox</h3>
+<img src="./Screenshot/Radio%20dan%20Checkbox.png" width="700">
 
-## Radio dan Checkbox
-![Radio dan Checkbox](Screenshot/Radio%20dan%20Checkbox.png)
+<h3>5. Select dan TextArea</h3>
+<img src="./Screenshot/Select%20dan%20TextArea.png" width="700">
 
-## Select dan TextArea
-![Select dan TextArea](Screenshot/Select%20dan%20TextArea.png)
+<h3>6. Validasi Form</h3>
+<img src="./Screenshot/Validasi%20Form.png" width="700">
 
-## Validasi Form
-![Validasi Form](Screenshot/Validasi%20Form.png)
+<h3>7. Semantic HTML</h3>
+<img src="./Screenshot/Semantic%20HTML.png" width="700">
 
-## Semantic HTML
-![Semantic HTML](Screenshot/Semantic%20HTML.png)
+<h3>8. Multimedia</h3>
+<img src="./Screenshot/Multimedia.png" width="700">
 
-## Multimedia
-![Multimedia](Screenshot/Multimedia%20.png)
+<h3>9. Biodata Mahasiswa</h3>
+<img src="./Screenshot/Biodata.png" width="700">
 
-## Biodata Mahasiswa
-![Biodata Mahasiswa](Screenshot/Biodata%20Mahasiswa.png)
-
-## Form Biodata
-![Form Biodata](Screenshot/Form%20Biodata.png)
+<h3>10. Form Biodata</h3>
+<img src="./Screenshot/Form%20Biodata.png" width="700">
