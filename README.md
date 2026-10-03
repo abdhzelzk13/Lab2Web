@@ -4,24 +4,7 @@
 
 **Nama:** Abid Hazel Zaki  
 **NIM:** 312510018  
-**Kelas:** I.25.3A  
-**Mata Kuliah:** Pemrograman Web
-
----
-
-## Tujuan
-
-Praktikum ini bertujuan untuk mempelajari HTML lanjutan, meliputi:
-
-- Membuat tabel HTML
-- Membuat form HTML
-- Menggunakan berbagai tipe input
-- Menggunakan radio button dan checkbox
-- Menggunakan select dan textarea
-- Menerapkan validasi form
-- Menggunakan semantic HTML
-- Menambahkan multimedia berupa audio dan video
-- Membuat mini project biodata mahasiswa
+**Kelas:** I.25.3A
 
 ---
 
@@ -29,67 +12,40 @@ Praktikum ini bertujuan untuk mempelajari HTML lanjutan, meliputi:
 
 ### 1. Tabel Data Mahasiswa
 
-![Tabel Data Mahasiswa](./Screenshot/Tabel_Data_Mahasiswa.png)
+![Tabel Data Mahasiswa](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Tabel_Data_Mahasiswa.png?raw=true)
 
 ### 2. Tabel Nilai Praktikum
 
-![Tabel Nilai Praktikum](./Screenshot/Tabel_Nilai_Praktikum.png)
+![Tabel Nilai Praktikum](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Tabel_Nilai_Praktikum.png?raw=true)
 
 ### 3. Form Registrasi
 
-![Form Registrasi](./Screenshot/Form_Registrasi.png)
+![Form Registrasi](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Form_Registrasi.png?raw=true)
 
 ### 4. Radio Button dan Checkbox
 
-![Radio Checkbox](./Screenshot/Radio_Checkbox.png)
+![Radio Checkbox](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Radio_Checkbox.png?raw=true)
 
 ### 5. Select dan Textarea
 
-![Select TextArea](./Screenshot/Select_TextArea.png)
+![Select TextArea](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Select_TextArea.png?raw=true)
 
 ### 6. Validasi Form
 
-![Validasi Form](./Screenshot/Validasi_Form.png)
+![Validasi Form](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Validasi_Form.png?raw=true)
 
 ### 7. Semantic HTML
 
-![Semantic HTML](./Screenshot/Semantic_HTML.png)
+![Semantic HTML](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Semantic_HTML.png?raw=true)
 
 ### 8. Multimedia
 
-![Multimedia](./Screenshot/Multimedia.png)
+![Multimedia](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Multimedia.png?raw=true)
 
 ### 9. Biodata Mahasiswa
 
-![Biodata](./Screenshot/Biodata.png)
+![Biodata](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Biodata.png?raw=true)
 
 ### 10. Form Biodata
 
-![Form Biodata](./Screenshot/Form_Biodata.png)
-
----
-
-## Struktur Folder
-
-```text
-Lab2Web/
-│
-├── index.html
-├── biodata.html
-├── README.md
-│
-├── media/
-│   ├── audio.mp3
-│   └── video.mp4
-│
-└── Screenshot/
-    ├── Tabel_Data_Mahasiswa.png
-    ├── Tabel_Nilai_Praktikum.png
-    ├── Form_Registrasi.png
-    ├── Radio_Checkbox.png
-    ├── Select_TextArea.png
-    ├── Validasi_Form.png
-    ├── Semantic_HTML.png
-    ├── Multimedia.png
-    ├── Biodata.png
-    └── Form_Biodata.png
+![Form Biodata](https://github.com/abdhzelk13/Lab2Web/blob/main/Screenshot/Form_Biodata.png?raw=true)
