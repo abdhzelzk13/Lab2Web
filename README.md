@@ -41,7 +41,7 @@ Materi yang dipelajari pada Praktikum 2 meliputi:
 
 Membuat tabel data mahasiswa yang berisi NIM, nama, dan program studi.
 
-![Tabel Data Mahasiswa](Screenshot/Tabel%20Data%20Mahasiswa.png)
+![Tabel Data Mahasiswa](Screenshot/Tabel_Data_Mahasiswa.png)
 
 ---
 
@@ -49,7 +49,7 @@ Membuat tabel data mahasiswa yang berisi NIM, nama, dan program studi.
 
 Membuat tabel menggunakan thead, tbody, tfoot, dan colspan.
 
-![Tabel Nilai Praktikum](Screenshot/Tabel%20Nilai%20Praktikum.png)
+![Tabel Nilai Praktikum](Screenshot/Tabel_Nilai_Praktikum.png)
 
 ---
 
@@ -58,7 +58,7 @@ Membuat tabel menggunakan thead, tbody, tfoot, dan colspan.
 Membuat form registrasi yang berisi nama, email, password,
 tanggal lahir, serta tombol Daftar dan Reset.
 
-![Form Registrasi](Screenshot/Form%20Registrasi.png)
+![Form Registrasi](Screenshot/Form_Registrasi.png)
 
 ---
 
@@ -67,7 +67,7 @@ tanggal lahir, serta tombol Daftar dan Reset.
 Menggunakan radio button untuk pilihan jenis kelamin
 dan checkbox untuk pilihan keahlian.
 
-![Radio dan Checkbox](Screenshot/Radio%20%26%20Checkbox.png)
+![Radio dan Checkbox](Screenshot/Radio_Checkbox.png)
 
 ---
 
@@ -76,7 +76,7 @@ dan checkbox untuk pilihan keahlian.
 Menggunakan select untuk memilih program studi dan
 textarea untuk memasukkan alamat.
 
-![Select dan Textarea](Screenshot/Select%20%26%20TextArea.png)
+![Select dan Textarea](Screenshot/Select_TextArea.png)
 
 ---
 
@@ -85,7 +85,7 @@ textarea untuk memasukkan alamat.
 Menerapkan validasi dasar menggunakan atribut required,
 minlength, min, dan max.
 
-![Validasi Form](Screenshot/Validasi%20Form.png)
+![Validasi Form](Screenshot/Validasi_Form.png)
 
 ---
 
@@ -94,15 +94,13 @@ minlength, min, dan max.
 Menerapkan elemen semantic HTML seperti header, nav, main,
 section, article, aside, dan footer.
 
-![Semantic HTML](Screenshot/Semantic%20HTML.png)
+![Semantic HTML](Screenshot/Semantic_HTML.png)
 
 ---
 
 ### 8. Multimedia HTML
 
 Menambahkan elemen audio dan video menggunakan HTML.
-
-File multimedia disimpan di dalam folder media.
 
 ![Multimedia](Screenshot/Multimedia.png)
 
@@ -121,8 +119,7 @@ Membuat proyek mini biodata mahasiswa menggunakan tabel HTML.
 Membuat form biodata yang berisi nama, email,
 program studi, dan alamat.
 
-![Form Biodata](Screenshot/Form%20Biodata.png)
-
+![Form Biodata](Screenshot/Form_Biodata.png)
 ---
 
 ## Struktur Folder
